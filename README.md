@@ -8,3 +8,7 @@ Key Technologies Used:
 Amazon S3: Utilized for storing and hosting the website's static files (HTML, CSS, JavaScript).
 Amazon CloudFront: Configured as a CDN to deliver the content with low latency and high transfer speeds to users around the globe.
 This project demonstrates the practical application of cloud computing services to build, deploy, and manage a website with AWS, highlighting best practices for security, scalability, and performance optimization.
+
+
+WEBSITE :
+          https://d3uzjpligq9v7a.cloudfront.net/
